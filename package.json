@@ -1,0 +1,24 @@
+{
+  "name": "coursera-fullstack",
+  "version": "1.0.0",
+  "description": "This is the folder to learn full stack on cousera",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longhoang123/Coursera-Fullstack.git"
+  },
+  "author": "Long Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longhoang123/Coursera-Fullstack/issues"
+  },
+  "homepage": "https://github.com/longhoang123/Coursera-Fullstack#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
