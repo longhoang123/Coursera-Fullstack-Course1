@@ -20,5 +20,9 @@
   "homepage": "https://github.com/longhoang123/Coursera-Fullstack#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
   }
 }
