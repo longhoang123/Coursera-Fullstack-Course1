@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run lite",
     "lite": "live-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -o css/ css/"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,8 @@
   },
   "homepage": "https://github.com/longhoang123/Coursera-Fullstack#readme",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "node-sass": "^4.14.1"
   },
   "dependencies": {
     "bootstrap-social": "^5.1.1",
