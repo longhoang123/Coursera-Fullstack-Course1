@@ -21,7 +21,7 @@
   "homepage": "https://github.com/longhoang123/Coursera-Fullstack#readme",
   "devDependencies": {
     "live-server": "^1.2.1",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bootstrap-social": "^5.1.1",
